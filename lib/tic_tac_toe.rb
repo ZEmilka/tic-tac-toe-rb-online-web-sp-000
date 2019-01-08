@@ -122,5 +122,6 @@ def play(board)
    puts""
  elsif draw?(board)
    puts""
- end   
-end  
+ end
+end
+
