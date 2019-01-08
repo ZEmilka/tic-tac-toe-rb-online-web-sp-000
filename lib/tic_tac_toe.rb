@@ -108,8 +108,8 @@ end
 def winner(board)
   if !won?(board)
     return nil
-  elsif won?(board)
-    return board[won?(board)[0]]
+  else
+    board[won?(board)[0]]
   end
 end
 
