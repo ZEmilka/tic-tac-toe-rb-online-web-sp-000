@@ -124,4 +124,3 @@ def play(board)
    puts""
  end
 end
-
